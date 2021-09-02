@@ -1,6 +1,10 @@
-# Welcome to MY Website...
-
 ## Welcome to GitHub Pages
+
+# Jason Saavedra's First CS193 Homework
+
+- It is only req.
+- Once a week
+- :)
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
